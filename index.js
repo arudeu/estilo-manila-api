@@ -19,6 +19,7 @@ const corsOptions = {
     "http://localhost:3000",
     "http://zuitt-bootcamp-prod-443-7311-conde.s3-website.us-east-1.amazonaws.com",
     "https://csp3-b443-conde-leoncito.vercel.app",
+    "https://estilo-manila-api.onrender.com",
   ],
   credentials: true,
   optionsSuccessStatus: 200,
